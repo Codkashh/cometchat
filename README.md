@@ -52,3 +52,29 @@ export default tseslint.config({
   },
 })
 ```
+# Technologies Used:
+```
+  React
+  CometChat UI Kit
+  React Router
+```
+
+# Clone the repository
+```
+git clone https://github.com/yourusername/cometchat-integration
+
+# Navigate to the project directory
+cd cometchat-integration
+
+# Install dependencies
+npm install
+
+# Add environment variables in .env
+REACT_APP_COMETCHAT_APP_ID=YOUR_APP_ID
+REACT_APP_COMETCHAT_REGION=YOUR_REGION
+REACT_APP_COMETCHAT_AUTH_KEY=YOUR_AUTH_KEY
+
+# Start the application
+npm start
+
+```
